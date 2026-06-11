@@ -1,0 +1,31 @@
+{
+    "pack": {
+    "min_format": 84,
+    "max_format": 84,
+        "description": "\u00a76Vanilla Tweaks 26.1\n\u00a7evanillatweaks.net"
+    },
+    "overlays": {
+        "entries": [
+            {
+                "directory": "darkui_compat_overlay",
+                "min_format": 84,
+                "max_format": 84
+            },
+            {
+                "directory": "wavy_leaves_compat_overlay",
+                "min_format": 84,
+                "max_format": 84
+            },
+            {
+                "directory": "wavy_plants_compat_overlay",
+                "min_format": 84,
+                "max_format": 84
+            },
+            {
+                "directory": "wavy_water_compat_overlay",
+                "min_format": 84,
+                "max_format": 84
+            }
+        ]
+    }
+}

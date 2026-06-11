@@ -1,0 +1,18 @@
+{
+	"parent": "block/cube",
+	"textures": {
+		"east": "block/lodestone_east",
+		"north": "block/lodestone_north",
+		"south": "block/lodestone_south",
+		"up": "block/lodestone_top",
+		"down": "block/lodestone_top",
+		"west": "block/lodestone_west",
+		"particle": "block/lodestone_east"
+	},
+	"display": {
+		"gui": {
+			"rotation": [30, 135, 0],
+			"scale": [0.625, 0.625, 0.625]
+		}
+	}
+}
